@@ -1,0 +1,23 @@
+LISTADO                                 
+
+CODIGO: 01          NOMBRE: EQUIPO1     
+COD. JUGADOR          GOLES             
+   JUG1             00000004            
+   JUG2             00000003            
+   JUG3             00000003            
+GOLES TOTALES DEL EQUIPO: 0000000000010 
+
+CODIGO: 02          NOMBRE: EQUIPO2     
+COD. JUGADOR          GOLES             
+   JUG1             00000008            
+   JUG4             00000001            
+GOLES TOTALES DEL EQUIPO: 0000000000009 
+
+CODIGO: 03          NOMBRE: EQUIPO3     
+COD. JUGADOR          GOLES             
+   JUG1             00000001            
+   JUG2             00000001            
+   JUG3             00000006            
+   JUG4             00000001            
+   JUG5             00000002            
+GOLES TOTALES DEL EQUIPO: 0000000000011 
